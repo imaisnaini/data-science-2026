@@ -10,7 +10,6 @@ Each folder represents a specific week and contains the corresponding tasks, pro
 - **Name**: Fatimah Isnaini Shabrina
 - **NIM**: 250401020073
 - **University**: UNSIA - Universitas Siber Asia  
-- **Program**: *(Add your study program here if needed)*  
 
 ---
 ## 🛠️ Tools & Technologies
