@@ -24,13 +24,13 @@ Repository ini bertujuan untuk mendokumentasikan proses pembelajaran sekaligus m
 
 | Pertemuan | Topik | Notebook |
 |-----------|--------|----------|
-| 1 | Pengenalan Data Science dan Python | [Notebook Pertemuan 1](./Pertemuan1_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
-| 2 | Struktur Data Python, NumPy dan Pandas | [Notebook Pertemuan 2](./Pertemuan2_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
-| 3 | Data Cleaning, Missing, Outlier & Ekstraksi Data | [Notebook Pertemuan 3](./Pertemuan3_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
-| 4 | Statistika Dasar dan Analisis Data | [Notebook Pertemuan 4](./Pertemuan4_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
-| 5 | Visualisasi Data | [Notebook Pertemuan 5](./Pertemuan5_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
-| 6 | Persiapan Data | [Notebook Pertemuan 6](./Pertemuan6_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
-| 7 | Pengantar Machine Learning : Regresi Linear | [Notebook Pertemuan 7](./Pertemuan7_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
+| 1 | Pengenalan Data Science dan Python | [Notebook Pertemuan 1](./Pertemuan1_Fatimah_Isnaini_Shabrina__250401020073.ipynb) |
+| 2 | Struktur Data Python, NumPy dan Pandas | [Notebook Pertemuan 2](./Pertemuan2_Fatimah_Isnaini_Shabrina__250401020073.ipynb) |
+| 3 | Data Cleaning, Missing, Outlier & Ekstraksi Data | [Notebook Pertemuan 3](./Pertemuan3_Fatimah_Isnaini_Shabrina__250401020073.ipynb) |
+| 4 | Statistika Dasar dan Analisis Data | [Notebook Pertemuan 4](./Pertemuan4_Fatimah_Isnaini_Shabrina__250401020073.ipynb) |
+| 5 | Visualisasi Data | [Notebook Pertemuan 5](./Pertemuan5_Fatimah_Isnaini_Shabrina__250401020073.ipynb) |
+| 6 | Persiapan Data | [Notebook Pertemuan 6](./Pertemuan6_Fatimah_Isnaini_Shabrina__250401020073.ipynb) |
+| 7 | Pengantar Machine Learning : Regresi Linear | [Notebook Pertemuan 7](./Pertemuan7_Fatimah_Isnaini_Shabrina__250401020073.ipynb) |
 
 ---
 
