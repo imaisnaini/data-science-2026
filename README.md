@@ -31,6 +31,8 @@ Repository ini bertujuan untuk mendokumentasikan proses pembelajaran sekaligus m
 | 5 | Visualisasi Data | [Notebook Pertemuan 5](./Pertemuan5_Fatimah_Isnaini_Shabrina__250401020073.ipynb) |
 | 6 | Persiapan Data | [Notebook Pertemuan 6](./Pertemuan6_Fatimah_Isnaini_Shabrina__250401020073.ipynb) |
 | 7 | Pengantar Machine Learning : Regresi Linear | [Notebook Pertemuan 7](./Pertemuan7_Fatimah_Isnaini_Shabrina__250401020073.ipynb) |
+| 9 | Algoritma Klasifikasi (Bagian 1) | [Notebook Pertemuan 9](./Pertemuan9_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
+| 10 | Algoritma Klasifikasi (Bagian 1) | [Notebook Pertemuan 10](./Pertemuan10_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
 
 ---
 
