@@ -35,6 +35,7 @@ Repository ini bertujuan untuk mendokumentasikan proses pembelajaran sekaligus m
 | 10 | Algoritma Klasifikasi (Bagian 2) | [Notebook Pertemuan 10](./Pertemuan10_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
 | 11 | Unsupervised Learning : Clustering (K-Means & Hierarchical) | [Notebook Pertemuan 11](./Pertemuan11_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
 | 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Notebook Pertemuan 12](./Pertemuan12_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
+| 13 | Pengantar Topik Lanjutan: Deep Learning & NLP Dasar| [Notebook Pertemuan 13](./Pertemuan13_Fatimah_Isnaini_Shabrina_250401020073.ipynb) |
 
 ---
 
@@ -102,6 +103,15 @@ Melalui praktikum ini, saya memahami pentingnya proses preprocessing data sebelu
 
 Salah satu pembelajaran utama yang diperoleh adalah bahwa kualitas data sangat memengaruhi hasil analisis dan performa model. Oleh karena itu, tahap pembersihan dan eksplorasi data menjadi bagian yang sangat penting dalam proyek Data Science.
 
+# 🎯 Kesimpulan Perjalanan Belajar Data Science (Pertemuan 9–13)
+
+Pada pertemuan 9 hingga 13, saya mempelajari beberapa penerapan Data Science yang lebih lanjut, mulai dari pengolahan data sensor dan penyimpanan data menggunakan database, hingga teknik Machine Learning dan Data Mining.
+
+Saya mempelajari **clustering** menggunakan K-Means dan Hierarchical Clustering untuk mengelompokkan data berdasarkan karakteristik tertentu. Selain itu, saya juga belajar **Association Rule Mining** menggunakan algoritma Apriori untuk menemukan hubungan antar produk, serta dasar **sistem rekomendasi** menggunakan Association Rules dan Content-Based Filtering.
+
+Pada pertemuan berikutnya, saya mulai mempelajari pengolahan data teks atau **Natural Language Processing (NLP)**. Saya belajar mengubah teks menjadi data numerik menggunakan **TF-IDF** dan menggunakannya untuk melakukan klasifikasi sentimen dengan Logistic Regression.
+
+Melalui praktikum ini, saya memahami bahwa Data Science dapat digunakan tidak hanya untuk menganalisis data numerik, tetapi juga untuk menemukan pola, membuat segmentasi, memberikan rekomendasi, dan menganalisis data berbentuk teks.
 ---
 
 # 📌 Disclaimer
