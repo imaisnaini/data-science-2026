@@ -112,6 +112,7 @@ Saya mempelajari **clustering** menggunakan K-Means dan Hierarchical Clustering 
 Pada pertemuan berikutnya, saya mulai mempelajari pengolahan data teks atau **Natural Language Processing (NLP)**. Saya belajar mengubah teks menjadi data numerik menggunakan **TF-IDF** dan menggunakannya untuk melakukan klasifikasi sentimen dengan Logistic Regression.
 
 Melalui praktikum ini, saya memahami bahwa Data Science dapat digunakan tidak hanya untuk menganalisis data numerik, tetapi juga untuk menemukan pola, membuat segmentasi, memberikan rekomendasi, dan menganalisis data berbentuk teks.
+
 ---
 
 # 📌 Disclaimer
